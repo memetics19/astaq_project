@@ -1,4 +1,4 @@
-# astaq_project
+# astaqc_project
 
 This is illustrate a sample api resource, which takes input using two variables and return sum of them using Django.
 
