@@ -23,7 +23,7 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs.
  
  ```
  virtulenv venv_name
- . venv_name/Scrtipts/activate
+ . venv_name/Scripts/activate
  
  ```
  3. Install Django inside virtual environment using pip...
